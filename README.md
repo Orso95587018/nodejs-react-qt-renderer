@@ -1,7 +1,7 @@
 # nodejs-react-qt-renderer
 A React renderer for Qt that is compatible with Node.js.
 
-( i ) _Learning in progress.. Currently on:_ NodeSchool - https://nodeschool.io/
+( i ) - _Learning in progress.. Currently on:_ ___NodeSchool - https://nodeschool.io/___
 
 Resources:
 * ReactJS tutorial - https://reactjs.org/docs/hello-world.html
