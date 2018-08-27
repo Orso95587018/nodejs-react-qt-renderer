@@ -12,7 +12,7 @@ Resources:
 
   * Official website - https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/
   * W3Schools - https://www.w3schools.com/nodejs/default.asp
-
+  * joepie91's "Getting started with Node" - https://gist.github.com/joepie91/95ed77b71790442b7e61
   * NodeSchool - https://nodeschool.io/
 
 * Qt tutorial: https://wiki.qt.io/Qt_for_Beginners
