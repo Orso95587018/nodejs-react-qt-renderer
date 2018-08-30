@@ -7,6 +7,8 @@ Resources:
 * ReactJS tutorials:
   * Concept official guide - https://reactjs.org/docs/hello-world.html
   * Hands-on official guide - https://reactjs.org/tutorial/tutorial.html
+  * Overview of the Reconciliation problem - https://reactjs.org/docs/reconciliation.html
+  * Overview of renderers - https://reactjs.org/docs/codebase-overview.html#renderers
 
 * Node.js tutorials:
 
