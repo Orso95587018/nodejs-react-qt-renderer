@@ -9,6 +9,7 @@ Resources:
   * Hands-on official guide - https://reactjs.org/tutorial/tutorial.html
   * Overview of the Reconciliation problem - https://reactjs.org/docs/reconciliation.html
   * Overview of renderers - https://reactjs.org/docs/codebase-overview.html#renderers
+* ReactJS Discord server: https://discordapp.com/channels/102860784329052160/103696749012467712
 
 * Node.js tutorials:
 
