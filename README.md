@@ -19,3 +19,7 @@ Resources:
   * NodeSchool - https://nodeschool.io/
 
 * Qt tutorial: https://wiki.qt.io/Qt_for_Beginners
+
+
+Contacts:
+* XMPP: my nickname at xabber.com
