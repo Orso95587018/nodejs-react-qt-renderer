@@ -26,3 +26,4 @@ Resources:
 
 Contacts:
 * XMPP: my nickname at xabber.com
+* joepie91: cryto.net/~joepie91/
